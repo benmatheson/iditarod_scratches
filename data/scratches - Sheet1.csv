@@ -1,0 +1,231 @@
+name,bib ,checkpoint,time,dogs,status,year,route
+Richie Beattie (r),50,Nome,3/14 22:01:31,9,Withdrawn,2019,southern
+Cindy Gallea,53,Safety,3/18 0:00:00,7,Scratched,2019,southern
+Nicolas Petit,20,Shaktoolik,3/10 19:57:00,10,Scratched,2019,southern
+Ryan Redington,22,Shaktoolik,3/11 11:44:00,9,Scratched,2019,southern
+Brett Bruggeman,35,Shaktoolik,3/12 0:36:00,11,Scratched,2019,southern
+Lev Shvarts,13,Unalakleet,3/11 16:08:00,7,Scratched,2019,southern
+Sebastien Dos Santos Borges (r),46,Unalakleet,3/13 17:25:00,11,Scratched,2019,southern
+Robert Redington,34,Kaltag,3/10 17:22:00,8,Scratched,2019,southern
+Niklas Wikstrand (r),42,Kaltag,3/11 14:35:00,13,Scratched,2019,southern
+Emily Maxwell,18,Iditarod,3/9 12:00:00,9,Scratched,2019,southern
+Marcelle Fressineau,27,Iditarod,3/9 12:03:00,11,Scratched,2019,southern
+Cindy Abbott,16,Iditarod,3/9 15:04:00,14,Scratched,2019,southern
+Shaynee Traska,7,Nikolai,3/6 1:44:00,10,Scratched,2019,southern
+Jim Lanier,32,Safety,3/16 11:30:00,13,Scratched,2018,southern
+Scott Janssen,23,Safety,3/16 11:30:00,11,Scratched,2018,southern
+Wade Marrs,11,Koyuk,3/12 22:25:00,9,Scratched,2018,southern
+Alan Eischens,53,Koyuk,3/14 20:45:00,14,Scratched,2018,southern
+Marcelle Fressineau,35,Shaktoolik,3/15 5:24:00,12,Scratched,2018,southern
+Steve Watkins,59,Unalakleet,3/15 18:22:00,12,Withdrawn,2018,southern
+Tara Cicatello (r),44,Unalakleet,3/15 18:30:00,13,Withdrawn,2018,southern
+Ryan Redington,7,Kaltag,3/11 14:50:00 *,11,Scratched,2018,southern
+Rob Cooke,10,Kaltag,3/13 1:48:00,13,Scratched,2018,southern
+Allen Moore,26,Kaltag,3/13 14:26:00,13,Scratched,2018,southern
+Tom Schonberger (r),25,Grayling,3/12 11:35:00,11,Scratched,2018,southern
+Robert Redington,34,Shageluk,3/9 13:24:00,12,Scratched,2018,southern
+Scott White,62,Takotna,3/9 0:35:00,12,Scratched,2018,southern
+DeeDee Jonrowe,39,Rainy Pass,3/5 16:41:00,16,Scratched,2018,southern
+Zoya DeNure,47,Skwentna,3/5 3:05:00,15,Scratched,2018,southern
+Matthew Failor,29,White Mountain,3/19 2:48:00,7,Scratched,2020,northern
+Sean Underwood (r),46,White Mountain,3/19 1:59:00,11,Scratched,2020,northern
+Tom Knolmayer,30,White Mountain,3/19 2:19:00,11,Scratched,2020,northern
+Jason Campeau,19,White Mountain,3/18 16:06:00,9,Scratched,2020,northern
+Nicolas Petit,21,Elim,3/17 10:11:00,12,Scratched,2020,northern
+Robert Redington,28,Elim,3/17 22:33:00,8,Scratched,2020,northern
+Robert Bundtzen,54,Elim,3/19 16:49:00,14,Scratched,2020,northern
+Aaron Peck,36,Unalakleet,3/15 19:51:00,11,Scratched,2020,northern
+Karin Hendrickson,15,Unalakleet,3/17 13:09:00,10,Scratched,2020,northern
+Richie Diehl,16,Unalakleet,3/16 1:24:00,11,Scratched,2020,northern
+Anna Berington,18,Unalakleet,3/16 17:13:00,9,Scratched,2020,northern
+Kristy Berington,4,Unalakleet,3/16 17:13:00,11,Scratched,2020,northern
+John Schandelmeier,42,Unalakleet,3/17 17:10:00,13,Scratched,2020,northern
+Gabe Dunham (r),17,Unalakleet,3/17 18:04:00,12,Scratched,2020,northern
+Meredith Mapes,13,Unalakleet,3/18 0:10:00,7,Scratched,2020,northern
+Quince Mountain (r),50,Unalakleet,3/18 10:23:00,14,Withdrawn,2020,northern
+Larry Daugherty,45,Kaltag,3/17 0:42:00,13,Scratched,2020,northern
+Linwood Fiedler,8,Galena,3/14 5:42:00,14,Scratched,2020,northern
+Martin Massicotte (r),2,Galena,3/14 8:07:00,9,Scratched,2020,northern
+Nils Hahn,56,McGrath,3/12 4:30:00,13,Scratched,2020,northern
+Alan Eischens,49,McGrath,3/13 1:43:00,11,Scratched,2020,northern
+Jeremy Keller,47,Nikolai,3/11 16:36:00,12,Scratched,2020,northern
+Jim Lanier,55,Rainy Pass,3/9 23:44:00,14,Scratched,2020,northern
+Monica Zappa,58,Shaktoolik,3/15 2:18:00,9,Scratched,2017,fairbanks
+Roger Lee (r),10,Shaktoolik,3/16 12:30:00,9,Scratched,2017,fairbanks
+Dave Branholm,60,Kaltag,3/13 2:14:00,13,Scratched,2017,fairbanks
+Ellen Halverson,30,Koyukuk,3/14 8:41:00,11,Scratched,2017,fairbanks
+Ryan Anderson (r),8,Galena,3/11 12:21:00,10,Scratched,2017,fairbanks
+Mark Selland,23,Ruby,3/9 21:10:00,14,Scratched,2017,fairbanks
+Mark May,68,Tanana,3/8 11:35:00,16,Scratched,2017,fairbanks
+Otto Balogh (r),3,Fairbanks,3/6 9:02:00,16,Scratched,2017,fairbanks
+Billy Snodgrass,80,Unalakleet,3/16 15:19:00,11,Scratched,2016,northern
+Ellen Halverson,29,Unalakleet,3/17 11:40:00,9,Withdrawn,2016,northern
+Cim Smyth,10,Kaltag,3/13 16:48:00,6,Scratched,2016,northern
+Jim Lanier,51,Kaltag,3/14 8:41:00,12,Scratched,2016,northern
+Robert Redington (r),57,Galena,3/12 19:30:00,9,Scratched,2016,northern
+Lance Mackey,72,Galena,3/13 12:21:00,15,Scratched,2016,northern
+Ryan Redington,60,Ruby,3/12 4:53:00,11,Scratched,2016,northern
+Rick Casillo,20,Ruby,3/11 13:39:00,11,Scratched,2016,northern
+Scott Janssen,2,Cripple,3/11 21:49:00,13,Scratched,2016,northern
+Charley Bejna,9,McGrath,3/10 5:43:00,11,Scratched,2016,northern
+Hans Gatt,84,Nikolai,3/8 19:41:00,13,Scratched,2016,northern
+Zoya DeNure,74,Rainy Pass,3/8 9:50:00,11,Scratched,2016,northern
+Jan Steves,25,Skwentna,3/7 3:12:00,16,Scratched,2016,northern
+Martin Koenig,86,Skwentna,3/7 6:57:00,16,Scratched,2016,northern
+Scott Janssen,20,Koyuk,3/19 14:30:00,11,Scratched,2015,fairbanks
+Bryan Bearss,48,Shaktoolik,3/17 17:22:00,10,Scratched,2015,fairbanks
+Katherine Keith,74,Unalakleet,3/17 5:16:00,9,Scratched,2015,fairbanks
+Jim Lanier,13,Unalakleet,3/17 22:00:00,14,Scratched,2015,fairbanks
+Jan Steves,45,Huslia,3/16 19:35:00,14,Scratched,2015,fairbanks
+Gerald Sousa,44,Galena,3/13 19:08:00,13,Scratched,2015,fairbanks
+Ellen Halverson,35,Galena,3/15 8:05:00,9,Scratched,2015,fairbanks
+Philip Walters (r),51,Ruby,3/13 6:04:00,13,Scratched,2015,fairbanks
+Christine Roalofs,62,Ruby,3/13 0:19:00,13,Scratched,2015,fairbanks
+Gwenn Bogart (r),14,Tanana,3/11 12:30:00,14,Scratched,2015,fairbanks
+Brent Sass,71,Tanana,3/10 17:30:00,16,Disqualified,2015,fairbanks
+Zoya DeNure,79,Tanana,3/11 2:44:00,16,Scratched,2015,fairbanks
+Jeff King,17,White Mountain,3/10 7:02:00,12,Scratched,2014,northern
+Hugh Neff,61,White Mountain,3/11 7:00:00,8,Scratched,2014,northern
+Kelly Maixner,13,Elim,3/10 12:23:00,10,Scratched,2014,northern
+Elliot Anderson (r),55,Elim,3/14 3:01:00,15,Scratched,2014,northern
+Nicolas Petit,29,Unalakleet,3/8 18:45:00,14,Scratched,2014,northern
+Ramey Smyth,49,Ruby,3/7 13:50:00,12,Scratched,2014,northern
+John Dixon,45,Ophir,3/7 8:46:00,12,Scratched,2014,northern
+DeeDee Jonrowe,16,Rohn,3/3 19:33:00,16,Scratched,2014,northern
+Jake Berkowitz,37,Rohn,3/3 20:07:00,16,Scratched,2014,northern
+Scott Janssen,20,Rohn,3/3 20:38:00,15,Scratched,2014,northern
+Gus Guenther,4,Rohn,3/4 1:15:00,15,Scratched,2014,northern
+Mike Santos,68,Rohn,3/4 4:46:00,14,Scratched,2014,northern
+Linwood Fiedler,32,Rohn,3/4 6:21:00,15,Scratched,2014,northern
+Lev Shvarts (r),31,Rohn,3/4 8:23:00,15,Scratched,2014,northern
+Karen Ramstead,59,Rohn,3/4 11:14:00,14,Withdrawn,2014,northern
+Ellen Halverson,24,Rohn,3/4 17:05:00,12,Scratched,2014,northern
+Cindy Abbott (r),46,Rohn,3/4 17:05:00,14,Scratched,2014,northern
+Jim Lanier,38,Rainy Pass,3/3 14:02:00,16,Scratched,2014,northern
+Jan Steves,40,Rainy Pass,3/3 21:08:00,14,Scratched,2014,northern
+Cindy Gallea,42,Skwentna,3/2 22:07:00,16,Scratched,2014,northern
+Robert Bundtzen,23,Shaktoolik,3/11 15:24:00,15,Scratched,2013,southern
+Charley Bejna (r),15,Unalakleet,3/12 23:58:00,7,Scratched,2013,southern
+Jason Mackey,12,Unalakleet,3/12 1:25:00,12,Scratched,2013,southern
+"Rudy Demoski, Sr.",39,Unalakleet,3/12 4:44:00,9,Scratched,2013,southern
+Cindy Abbott (r),60,Kaltag,3/13 23:00:00,12,Scratched,2013,southern
+Jan Steves,26,Eagle Island,3/12 16:33:00,15,Scratched,2013,southern
+Gerry Willomitzer,21,Iditarod,3/7 22:23:00,15,Withdrawn,2013,southern
+Michael Suprenant,33,Iditarod,3/9 0:00:00,13,Scratched,2013,southern
+David Sawatzky,56,McGrath,3/7 2:49:00,13,Scratched,2013,southern
+Newton Marshall,8,Nikolai,3/6 16:02:00,,Scratched,2013,southern
+Scott Janssen,3,Rainy Pass,3/4 15:27:00,16,Scratched,2013,southern
+Ed Stielstra,41,Campbell Airstrip,3/2 13:15:00,12,Scratched,2013,southern
+Matt Giblin,52,Nome,3/16 11:20:49,11,Disqualified,2012,northern
+Jake Berkowitz,29,Unalakleet,3/11 12:14:00 *,14,Withdrawn,2012,northern
+Jeff King,10,Unalakleet,3/11 16:38:00 *,13,Scratched,2012,northern
+Gerry Willomitzer,23,Unalakleet,3/12 3:57:00,12,Scratched,2012,northern
+Tom Thurston,5,Unalakleet,3/12 23:00:00,8,Scratched,2012,northern
+Michael Suprenant,13,Unalakleet,3/14 1:47:00,9,Scratched,2012,northern
+Josh Cadzow (r),55,Kaltag,3/11 14:10:00,9,Scratched,2012,northern
+Kirk Barnum,47,Kaltag,3/13 5:50:00,10,Scratched,2012,northern
+Lachlan Clarke,66,Galena,3/10 23:08:00,10,Scratched,2012,northern
+Pat Moon (r),15,Ruby,3/11 05:18:00 *,7,Scratched,2012,northern
+Zoya DeNure,53,Cripple,3/9 10:59:00,12,Scratched,2012,northern
+Wade Marrs,7,Ophir,3/8 13:17:00,12,Scratched,2012,northern
+Ryan Redington,67,Takotna,3/8 6:46:00,10,Scratched,2012,northern
+Silvia Furtwängler (r),54,Nikolai,3/7 21:17:00,13,Scratched,2012,northern
+Karin Hendrickson,37,White Mountain,3/16 4:28:00,11,Scratched,2011,southern
+Robert Bundtzen,10,Koyuk,3/15 12:00:00,11,Scratched,2011,southern
+Mike Santos (r),27,Unalakleet,3/15 0:55:00,9,Scratched,2011,southern
+Kris Hoffman (r),8,Grayling,3/14 9:29:00,12,Scratched,2011,southern
+Judy Currier,29,Anvik,3/12 0:04:00,13,Scratched,2011,southern
+Newton Marshall,6,Anvik,3/12 13:01:00,11,Scratched,2011,southern
+Brennan Norden (r),44,Shageluk,3/13 20:15:00,12,Scratched,2011,southern
+James Bardoner (r),57,Iditarod,3/13 21:00:00 *,16,Scratched,2011,southern
+Mitch Seavey,28,Ophir,3/10 2:09:00,13,Withdrawn,2011,southern
+Gerry Willomitzer,33,McGrath,3/8 22:12:00,12,Scratched,2011,southern
+Paul Gebhardt,34,Nikolai,3/8 9:58:00,14,Scratched,2011,southern
+Jessica Hendricks,36,Nikolai,3/8 14:55:00,8,Scratched,2011,southern
+Zoya DeNure,9,Rainy Pass,3/7 13:44:00,15,Scratched,2011,southern
+Melissa Stewart,12,Rainy Pass,3/7 15:04:00,15,Scratched,2011,southern
+Bob Storey (r),15,Rainy Pass,3/8 18:52:00,16,Scratched,2011,southern
+John Stewart (r),69,White Mountain,3/19 19:56:00,7,Scratched,2010,northern
+Hank Debruin (r),45,Nulato,3/16 10:16:00,13,Scratched,2010,northern
+Ryan Redington,25,Galena,3/13 7:24:00,11,Scratched,2010,northern
+Warren Palfrey,27,Galena,3/13 12:32:00,10,Scratched,2010,northern
+Judy Currier,72,Galena,3/13 13:00:00,13,Scratched,2010,northern
+Emil Churchin (r),53,Ruby,3/15 11:08:00,13,Scratched,2010,northern
+Tom Thurston,68,Ophir,3/12 1:40:00,11,Scratched,2010,northern
+Linwood Fiedler,2,McGrath,3/10 1:56:00,11,Scratched,2010,northern
+Justin Savidis (r),10,McGrath,3/10 14:38:00,,Scratched,2010,northern
+Karen Ramstead,29,McGrath,3/10 19:23:00,14,Scratched,2010,northern
+Kathleen Frederick (r),46,Rohn,3/9 23:06:00,14,Scratched,2010,northern
+Karin Hendrickson,23,Rainy Pass,3/8 18:29:00,16,Scratched,2010,northern
+Zoya DeNure,5,Rainy Pass,3/8 20:02:00,15,Scratched,2010,northern
+Michael Suprenant,30,Rainy Pass,3/8 20:20:00,16,Scratched,2010,northern
+Pat Moon (r),17,Rainy Pass,3/8 22:32:00,15,Scratched,2010,northern
+Kirk Barnum,34,Rainy Pass,3/9 0:21:00,12,Scratched,2010,northern
+David Sawatzky,66,Safety,3/21 4:07:00,11,Scratched,2009,southern
+Ed Iten,4,Elim,3/18 8:29:00,13,Scratched,2009,southern
+Melissa Stewart,30,Elim,3/19 5:46:00,11,Scratched,2009,southern
+Aaron Peck,2,Elim,3/20 16:22:00,6,Scratched,2009,southern
+Alan Peck (r),32,Shaktoolik,3/22 1:30:00,14,Scratched,2009,southern
+Jeff Holt,68,Grayling,3/15 13:25:00,9,Scratched,2009,southern
+Laura Daugereau,45,Grayling,3/15 16:12:00,11,Scratched,2009,southern
+Lou Packer (r),43,Iditarod,3/15 4:58:00,16,Scratched,2009,southern
+Blake Matray (r),9,Iditarod,3/15 14:11:00,14,Scratched,2009,southern
+Kim Darst (r),52,Iditarod,3/15 14:12:00,14,Scratched,2009,southern
+Kurt Reich (r),59,Ophir,3/14 9:15:00,12,Scratched,2009,southern
+Rob Loveman (r),50,Ophir,3/14 1:25:00,14,Withdrawn,2009,southern
+Bjornar Andersen,18,Takotna,3/11 5:21:00,15,Scratched,2009,southern
+Nancy Yoshida (r),3,Rainy Pass,3/10 22:02:00,,Scratched,2009,southern
+Bob Hickel,38,Finger Lake,3/9 20:05:00,16,Scratched,2009,southern
+Molly Yazwinski (r),62,White Mountain,3/16 13:55:00,9,Scratched,2008,northern
+Michael Suprenant (r),46,Elim,3/14 14:54:00,9,Scratched,2008,northern
+Rachael Scdoris,55,Koyuk,3/13 16:08:00,10,Scratched,2008,northern
+Allen Moore,76,Shaktoolik,3/12 1:25:00,12,Scratched,2008,northern
+Peter Bartlett,93,Nulato,3/9 18:58:00,14,Scratched,2008,northern
+Darin Nelson (r),81,Galena,3/9 13:26:00,9,Scratched,2008,northern
+Steven Madsen,57,Galena,3/11 1:36:00,11,Scratched,2008,northern
+Ryan Redington,51,Ruby,3/8 14:24:00,10,Scratched,2008,northern
+"Art Church, Jr",18,Ruby,3/9 17:22:00,12,Scratched,2008,northern
+John Stetson (r),87,Cripple,3/7 20:40:00,14,Scratched,2008,northern
+Rodney Whaley (r),78,Cripple,3/9 16:00:00 *,13,Scratched,2008,northern
+Jason Barron,41,McGrath,3/5 9:00:00,14,Scratched,2008,northern
+Jessica Hendricks,23,Nikolai,3/4 21:28:00,12,Scratched,2008,northern
+Cliff Roberson,56,Rohn,3/4 15:49:00,15,Scratched,2008,northern
+Joe Garnie,28,Rainy Pass,3/3 17:33:00,13,Scratched,2008,northern
+Tom Roig (r),94,Finger Lake,3/3 21:23:00,14,Scratched,2008,northern
+G.B. Jones,45,Campbell Airstrip,3/1 13:50:00,,Scratched,2008,northern
+Ramy Brooks,5,Safety,3/14 12:43:00,8,Disqualified,2007,southern
+Bruce Milne (r),70,Kaltag,3/16 1:20:00,14,Scratched,2007,southern
+Karen Ramstead,36,Grayling,3/11 16:06:00,14,Scratched,2007,southern
+Gerald Sousa,22,Grayling,3/12 7:03:00,12,Scratched,2007,southern
+Linwood Fiedler,80,Iditarod,3/9 10:40:00,13,Scratched,2007,southern
+Eric Rogers,21,Iditarod,3/13 17:00:00 *,15,Scratched,2007,southern
+Dave Tresino,32,McGrath,3/7 22:35:00,13,Scratched,2007,southern
+Ben Stamm,15,Nikolai,3/8 1:52:00,15,Scratched,2007,southern
+G.B. Jones,82,Rohn,3/7 11:24:00,16,Scratched,2007,southern
+Deborah Bicknell (r),62,Rohn,3/8 19:17:00,13,Scratched,2007,southern
+Doug Swingley,28,Rainy Pass,3/5 10:15:00,15,Scratched,2007,southern
+Melanie Gould,35,Rainy Pass,3/5 14:41:00,14,Scratched,2007,southern
+Randy Cummins,14,Rainy Pass,3/5 16:16:00,15,Scratched,2007,southern
+Jacques Philip,46,Rainy Pass,3/5 16:51:00,16,Scratched,2007,southern
+DeeDee Jonrowe,27,Rainy Pass,3/5 17:09:00,15,Scratched,2007,southern
+Scott White (r),40,Rainy Pass,3/5 18:38:00,14,Scratched,2007,southern
+Dan Huttunen (r),29,Rainy Pass,3/5 21:35:00,15,Scratched,2007,southern
+Perry Solmonson,2,Rainy Pass,3/5 22:34:00,15,Scratched,2007,southern
+Lachlan Clarke,56,Rainy Pass,3/5 23:18:00,16,Scratched,2007,southern
+Richard Hum (r),25,Rainy Pass,3/6 1:03:00,15,Scratched,2007,southern
+Tom Roig (r),58,Rainy Pass,3/6 13:18:00,12,Scratched,2007,southern
+Frank Sihler,73,Finger Lake,3/5 11:20:00,14,Scratched,2007,southern
+Jeff Holt,65,Finger Lake,3/5 17:03:00,,Scratched,2007,southern
+Butch Austin (r),53,Finger Lake,3/5 17:46:00,14,Scratched,2007,southern
+Ben Valks (r),63,Shaktoolik,3/18 16:00:00,10,Withdrawn,2006,northern
+John Barron,9,Galena,3/11 11:59:00,10,Scratched,2006,northern
+Matt Hayashida,32,Cripple,3/10 9:56:00,10,Scratched,2006,northern
+Dave Tresino,27,Cripple,3/10 23:44:00,14,Scratched,2006,northern
+Terry Adkins,39,Takotna,3/9 10:15:00,10,Scratched,2006,northern
+Jim Warren,74,Takotna,3/10 10:14:00,12,Scratched,2006,northern
+Richard Hum (r),43,McGrath,3/9 3:25:00,12,Scratched,2006,northern
+Rick Larson,47,McGrath,3/9 11:45:00,12,Scratched,2006,northern
+Lori Townsend,2,Rainy Pass,3/6 20:47:00,16,Scratched,2006,northern
+Sandy McKee (r),70,Rainy Pass,3/7 14:41:00,15,Scratched,2006,northern
+Sue Morgan (r),60,Rainy Pass,3/7 14:49:00,14,Scratched,2006,northern
+Gary Paulsen,15,Skwentna,3/6 1:08:00,15,Scratched,2006,northern
